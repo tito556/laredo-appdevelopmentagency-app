@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laredo.appdevelopmentagency.app/sitemap.xml
